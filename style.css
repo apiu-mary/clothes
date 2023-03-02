@@ -1,0 +1,149 @@
+.one{
+    display: flex;
+  }
+  #paragraph{
+    margin-left: 10%;
+    font-weight: bold;
+    font-size: large;
+  }  
+  .two{
+    margin-left: 20%;
+    display: flex;
+    padding-left: 10%;
+  }
+  #button{
+    height: 30px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+  }
+  #line{
+    color: black;
+    
+    
+    
+  }
+  .three{
+    font-weight: bold;
+     font-size: xx-large;
+     margin-left: 2%;
+    
+  }
+  .three{
+    width: 40%;
+  }
+  .image-container{
+    position: relative;
+    float: right;
+    bottom: 250px;
+    width: 600px;
+    margin-top: 2%;
+    height: 400px; 
+    border-radius: 50px;  
+  }
+  .ico{
+    height: 30px;
+    width: 30px;
+    display: flex;
+    position: relative;
+    
+  
+      }
+  
+   #first{
+    border-radius: 45%;
+   }   
+    #second{
+      border-radius: 45%;
+    }
+    
+   #third{
+    border-radius: 45%;
+    
+   }
+   .word{
+    float: right;
+    position: relative;
+    bottom: 60px;
+    padding-right: 20%;
+    
+
+   }
+   #fourth{
+    
+    position: relative;
+    margin-top: 15px;
+    border-radius: 50px;
+    background-color: purple;
+    color: black;
+   }
+   .body{
+    border: solid 20px purple;
+    border-bottom: none;
+    height: 600px;
+    
+    
+   }
+   .photo{
+    width: 120px;
+    height: 120px;
+    border-radius: 20%;
+    margin-top: 2%;
+    display: flex;
+    padding-left: 2%;
+   }
+   #paragraph{
+    padding-left: 90px;
+    position: relative;
+    bottom: 150px;
+    padding-top: 15px;
+   }
+   .face{
+    padding-left: 15%;
+    position: relative;
+    bottom: 150px;
+   }
+   #face{
+    position: relative;
+    left: 150px;
+    bottom: 150px;
+   }
+
+    
+  #twit{
+    position: relative;
+    left: 150px;
+    bottom: 150px;
+    
+  }
+
+   #insta{
+    position: relative;
+    left: 150px;
+    bottom: 150px;
+    
+   } 
+   .content{
+    
+   width: 40%;
+   height: 150px;
+   margin-left: 10px;
+   margin-top: 20px;
+   border-radius: 20px;
+   background-color: blanchedalmond;
+   position: relative;
+
+
+    
+   }
+   .content:before{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-top: 500px solid white;
+    border-left: 80px solid  blanchedalmond;
+    width: 0px;
+
+   }
+   
