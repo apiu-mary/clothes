@@ -131,7 +131,7 @@
    margin-top: 20px;
    border-radius: 20px;
    background-color: blanchedalmond;
-   position: relative;
+   position: absolute;
 
 
     
@@ -141,9 +141,11 @@
     position: absolute;
     top: 0;
     right: 0;
-    border-top: 500px solid white;
+    border-top: 80px solid white;
     border-left: 80px solid  blanchedalmond;
     width: 0px;
+    
+   
 
    }
    
