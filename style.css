@@ -163,5 +163,12 @@
    body{
     background-color: cadetblue;
    }
-   
+   .cop{
+    position: relative;
+    left: 50%;
+   }
+   .wow{
+    position: relative;
+    left: 15px;
+   }
    
